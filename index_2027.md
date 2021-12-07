@@ -17,7 +17,7 @@ Software Engineering Student at Brigham Young University Idaho
 ## Education
 
 `2020-2023`
-__LDS Business College__, Salt Lake City, UT
+__Brigham Young University - Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
 
