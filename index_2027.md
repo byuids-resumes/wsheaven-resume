@@ -15,7 +15,7 @@ Software Engineering Student at Brigham Young University Idaho
 `2020-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- I have a gpa
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
