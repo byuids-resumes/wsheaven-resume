@@ -2,12 +2,13 @@
 layout: resume
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Sam Heaven
+Software Engineering Student at Brigham Young University Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="ws.heaven@gmail.com">ws.heaven@gmail.com</a>
+| <a href="https://github.com/wsheaven">Github</a> |
+<a href="https://www.linkedin.com/in/sam-heaven-8135701b8/">Linkedin</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -15,7 +16,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
+`2020-2023`
 __LDS Business College__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA
