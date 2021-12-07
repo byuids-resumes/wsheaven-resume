@@ -1,7 +1,3 @@
----
-layout: resume
-title: Brigham Young's Resume
----
 # Sam Heaven
 Software Engineering Student at Brigham Young University Idaho
 
